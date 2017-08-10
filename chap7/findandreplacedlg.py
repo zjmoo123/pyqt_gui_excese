@@ -2,7 +2,7 @@ import re
 from PyQt5.QtCore import *
 import PyQt5.QtGui
 from PyQt5.QtWidgets import *
-import TestDlg
+from chap7 import TestDlg
 
 MAC = hasattr(PyQt5.QtGui, "qt_mac_set_native_menubar")
 

@@ -1,6 +1,7 @@
 from PyQt5.QtCore import *
 import PyQt5.QtGui
 from PyQt5.QtWidgets import *
+from chap8 import moviedata
 
 class MainWindow(QMainWindow):
     def __init__(self,parent=None):
