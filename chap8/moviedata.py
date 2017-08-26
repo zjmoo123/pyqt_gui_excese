@@ -585,5 +585,5 @@ class SaxMovieHandler(QXmlDefaultHandler):
 
     def fatalError(self, QXmlParseException):
         self.error = "parse error at line %d column %d: %s" % (
-        QXmlParseException.lineNumber(), QXmlParseException.columnNumber(), QXmlParseException.message())
+            QXmlParseException.lineNumber(), QXmlParseException.columnNumber(), QXmlParseException.message())
         return False

@@ -16,10 +16,11 @@ from __future__ import unicode_literals
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
 from PyQt5.QtWidgets import *
-from newimagedlg import *
+# from newimagedlg import *
+from chap6 import newimagedlg
 
 
-class NewImageDlg(QDialog, Ui_NewImageDlg):
+class NewImageDlg(QDialog, newimagedlg.Ui_NewImageDlg):
     def __init__(self, parent=None):
         """
         Constructor
