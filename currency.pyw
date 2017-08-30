@@ -47,16 +47,17 @@ class Form(QDialog):
         except:
             pass
 
+valueChanged=pyqtSignal(int)
 class TaxRate(QObject):
-    valueChanged=pyqtSignal(int)
+
     def __init__(self):
         super(TaxRate,self).__init__()
         self.__rate=17.5
     def rate(self):
         return self.__rate
     def connect_and_emit_valueChanged(self,value):
-        self.valueChanged.connect(self.handle_valueChanged)
-        self.valueChanged.emit(value)
+        valueChanged.connect(self.handle_valueChanged)
+        valueChanged.emit(value)
 
     def handle_valueChanged(self,value):
         print("trigger signal received %d"% value)
