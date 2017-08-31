@@ -5,12 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="15865147-99a7-4be6-b713-97e3e8108529" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/assetmanager.pyw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/assetmanager1.pyw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap15/phonelog-fk.pyw" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/note.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/carhirelog.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/carhirelog2.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/gen2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/genericdelegates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/richtextlineedit.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/serverinfo.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/treeoftable.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/waterquality.pyw" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chap16/waterquality1.pyw" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/currency.pyw" afterPath="$PROJECT_DIR$/currency.pyw" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -22,11 +26,71 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="phonelog-fk.pyw" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap15/phonelog-fk.pyw">
+      <file leaf-file-name="waterquality.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/waterquality.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1070">
-              <caret line="290" column="6" lean-forward="true" selection-start-line="290" selection-start-column="6" selection-end-line="290" selection-end-column="6" />
+            <state relative-caret-position="-564">
+              <caret line="192" column="26" lean-forward="false" selection-start-line="192" selection-start-column="26" selection-end-line="192" selection-end-column="26" />
+              <folding>
+                <element signature="e#24#35#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="richtextlineedit.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/richtextlineedit.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="232" column="0" lean-forward="false" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="genericdelegates.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/genericdelegates.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="572">
+              <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#50#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="carhirelog.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/carhirelog.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="338">
+              <caret line="217" column="13" lean-forward="false" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="treeoftable.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/treeoftable.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="298">
+              <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="serverinfo.pyw" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/chap16/serverinfo.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="452">
+              <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -34,25 +98,45 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assetmanager.pyw" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chap15/assetmanager.pyw">
+      <file leaf-file-name="carhirelog2.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/carhirelog2.pyw">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="581" column="11" lean-forward="true" selection-start-line="581" selection-start-column="11" selection-end-line="581" selection-end-column="11" />
+            <state relative-caret-position="213">
+              <caret line="270" column="40" lean-forward="false" selection-start-line="270" selection-start-column="40" selection-end-line="270" selection-end-column="40" />
               <folding>
-                <element signature="e#23#32#0" expanded="true" />
+                <element signature="e#24#37#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assetmanager1.pyw" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/chap15/assetmanager1.pyw">
+      <file leaf-file-name="gen2" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/gen2">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="15" column="50" lean-forward="false" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="50" />
+            <state relative-caret-position="223">
+              <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ntpath.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/Python36/Lib/ntpath.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="166">
+              <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="waterquality1.pyw" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chap16/waterquality1.pyw">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
               <folding>
-                <element signature="e#23#32#0" expanded="true" />
+                <element signature="e#24#35#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,8 +153,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>empty</find>
-      <find>foundSignal</find>
       <find>pyqtSlot</find>
       <find>finfLineEdit</find>
       <find>findLineEdit</find>
@@ -99,6 +181,8 @@
       <find>ShipContainer</find>
       <find>newim</find>
       <find>next</find>
+      <find>clicked</find>
+      <find>scrollarea</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -107,14 +191,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/alert.pyw" />
-        <option value="$PROJECT_DIR$/text.pyw" />
-        <option value="$PROJECT_DIR$/penproperties.pyw" />
-        <option value="$PROJECT_DIR$/resource.qrc" />
-        <option value="$PROJECT_DIR$/helpform.py" />
-        <option value="$PROJECT_DIR$/newimagedlg.py" />
-        <option value="$PROJECT_DIR$/xx.py" />
-        <option value="$PROJECT_DIR$/imagechanger.pyw" />
         <option value="$PROJECT_DIR$/newimagedialog.py" />
         <option value="$PROJECT_DIR$/imagechanger1.pyw" />
         <option value="$PROJECT_DIR$/findandreplacedlg.py" />
@@ -157,6 +233,15 @@
         <option value="$PROJECT_DIR$/currency.pyw" />
         <option value="$PROJECT_DIR$/chap15/assetmanager1.pyw" />
         <option value="$PROJECT_DIR$/chap15/assetmanager.pyw" />
+        <option value="$PROJECT_DIR$/chap16/waterquality1.pyw" />
+        <option value="$PROJECT_DIR$/chap16/waterquality.pyw" />
+        <option value="$PROJECT_DIR$/chap16/richtextlineedit.pyw" />
+        <option value="$PROJECT_DIR$/chap16/genericdelegates.py" />
+        <option value="$PROJECT_DIR$/chap16/carhirelog.pyw" />
+        <option value="$PROJECT_DIR$/chap16/gen2" />
+        <option value="$PROJECT_DIR$/chap16/carhirelog2.pyw" />
+        <option value="$PROJECT_DIR$/chap16/serverinfo.pyw" />
+        <option value="$PROJECT_DIR$/chap16/treeoftable.py" />
       </list>
     </option>
   </component>
@@ -200,9 +285,9 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/chap15/assetmanager1.pyw" />
-    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/chap15/assetmanager1.pyw" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/chap16/carhirelog2.pyw" />
+    <property name="two.files.diff.last.used.file" value="$PROJECT_DIR$/chap16/carhirelog2.pyw" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -216,92 +301,92 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.assetmanager.pyw">
-    <configuration default="false" name="phonelog-fk.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.serverinfo.pyw">
+    <configuration default="false" name="waterquality.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="alert" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap15/phonelog-fk.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap16/waterquality.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="pagedesigner.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="richtextlineedit.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap12" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="alert" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap12/pagedesigner.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap16/richtextlineedit.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="currency.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="carhirelog.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="alert" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/currency.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap16/carhirelog.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="assetmanager.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="serverinfo.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="alert" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap15/assetmanager.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap16/serverinfo.pyw" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="assetmanager1.pyw" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="treeoftable" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/chap16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="alert" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap15/assetmanager1.pyw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chap16/treeoftable.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -372,19 +457,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.phonelog-fk.pyw" />
-      <item index="1" class="java.lang.String" itemvalue="Python.pagedesigner.pyw" />
-      <item index="2" class="java.lang.String" itemvalue="Python.currency.pyw" />
-      <item index="3" class="java.lang.String" itemvalue="Python.assetmanager.pyw" />
-      <item index="4" class="java.lang.String" itemvalue="Python.assetmanager1.pyw" />
+      <item index="0" class="java.lang.String" itemvalue="Python.waterquality.pyw" />
+      <item index="1" class="java.lang.String" itemvalue="Python.richtextlineedit.pyw" />
+      <item index="2" class="java.lang.String" itemvalue="Python.carhirelog.pyw" />
+      <item index="3" class="java.lang.String" itemvalue="Python.serverinfo.pyw" />
+      <item index="4" class="java.lang.String" itemvalue="Python.treeoftable" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.assetmanager.pyw" />
-        <item index="1" class="java.lang.String" itemvalue="Python.assetmanager1.pyw" />
-        <item index="2" class="java.lang.String" itemvalue="Python.currency.pyw" />
-        <item index="3" class="java.lang.String" itemvalue="Python.pagedesigner.pyw" />
-        <item index="4" class="java.lang.String" itemvalue="Python.phonelog-fk.pyw" />
+        <item index="0" class="java.lang.String" itemvalue="Python.serverinfo.pyw" />
+        <item index="1" class="java.lang.String" itemvalue="Python.treeoftable" />
+        <item index="2" class="java.lang.String" itemvalue="Python.carhirelog.pyw" />
+        <item index="3" class="java.lang.String" itemvalue="Python.richtextlineedit.pyw" />
+        <item index="4" class="java.lang.String" itemvalue="Python.waterquality.pyw" />
       </list>
     </recent_temporary>
   </component>
@@ -427,14 +512,14 @@
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17857143" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32832617" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28004292" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.39914164" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -626,6 +711,11 @@
           <line>352</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/chap16/waterquality.pyw</url>
+          <line>159</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
       <default-breakpoints>
         <breakpoint type="python-exception">
@@ -634,92 +724,11 @@
           </properties>
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="99" />
+      <option name="time" value="113" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1184660488/PyQt5/QtWidgets/QDialog.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="159" column="8" lean-forward="false" selection-start-line="159" selection-start-column="8" selection-end-line="159" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1184660488/PyQt5/QtWidgets/QAbstractSpinBox.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="225" column="8" lean-forward="false" selection-start-line="225" selection-start-column="8" selection-end-line="225" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/pagedesigner1.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8998">
-          <caret line="421" column="0" lean-forward="false" selection-start-line="421" selection-start-column="0" selection-end-line="421" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap11/ypipewidget.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/mutipedes2.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="786">
-          <caret line="232" column="17" lean-forward="true" selection-start-line="232" selection-start-column="17" selection-end-line="232" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/mutipedes1">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="346">
-          <caret line="228" column="28" lean-forward="true" selection-start-line="228" selection-start-column="28" selection-end-line="228" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap12/multipedes.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="4" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1184660488/sys.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5148">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap10/customdraganddrop.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="48" column="26" lean-forward="true" selection-start-line="48" selection-start-column="26" selection-end-line="48" selection-end-column="26" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chap8/mymovies.pyw">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="3" column="23" lean-forward="false" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1184660488/PyQt5/QtGui/QSyntaxHighlighter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="87" column="8" lean-forward="false" selection-start-line="87" selection-start-column="8" selection-end-line="87" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/chap13/richtextlineedit2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4136">
@@ -982,6 +991,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="675">
           <caret line="32" column="12" lean-forward="true" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1022,10 +1032,114 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chap15/assetmanager.pyw">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="581" column="11" lean-forward="true" selection-start-line="581" selection-start-column="11" selection-end-line="581" selection-end-column="11" />
+        <state relative-caret-position="382">
+          <caret line="609" column="10" lean-forward="false" selection-start-line="609" selection-start-column="10" selection-end-line="609" selection-end-column="10" />
           <folding>
             <element signature="e#23#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmCE2017.1/system/python_stubs/-1184660488/PyQt5/QtGui/QFontDatabase.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="33" column="17" lean-forward="false" selection-start-line="33" selection-start-column="16" selection-end-line="33" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/waterquality1.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="133" column="0" lean-forward="false" selection-start-line="133" selection-start-column="0" selection-end-line="133" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/waterquality.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-564">
+          <caret line="192" column="26" lean-forward="false" selection-start-line="192" selection-start-column="26" selection-end-line="192" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/richtextlineedit.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="232" column="0" lean-forward="false" selection-start-line="232" selection-start-column="0" selection-end-line="232" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python36/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="241" column="0" lean-forward="false" selection-start-line="241" selection-start-column="0" selection-end-line="241" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/gen2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="187" column="0" lean-forward="false" selection-start-line="187" selection-start-column="0" selection-end-line="187" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/carhirelog2.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="270" column="40" lean-forward="false" selection-start-line="270" selection-start-column="40" selection-end-line="270" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/genericdelegates.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#50#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/carhirelog.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="217" column="13" lean-forward="false" selection-start-line="217" selection-start-column="13" selection-end-line="217" selection-end-column="13" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/treeoftable.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="146" column="0" lean-forward="true" selection-start-line="146" selection-start-column="0" selection-end-line="146" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chap16/serverinfo.pyw">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="452">
+          <caret line="62" column="0" lean-forward="true" selection-start-line="62" selection-start-column="0" selection-end-line="62" selection-end-column="0" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
           </folding>
         </state>
       </provider>
